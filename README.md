@@ -6,6 +6,8 @@ C:\Program Files (x86)\Microsoft\Edge\Application\
 
 Commande à executer dans Installer :
 
+Si vous voulez Partiellement Edge Garder certain Widget : 
+
 setup.exe --uninstall --msedgewebview --system-level --verbose-logging --force-uninstall
 
 
